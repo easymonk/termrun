@@ -1,0 +1,28 @@
+{
+  "name": "termrun",
+  "version": "0.4.6",
+  "description": "termrun help you run your command on other system ",
+  "scripts": {},
+  "keywords": [
+    "termrun",
+    "term"
+  ],
+  "bin": {
+    "termrun": "./bin/termrun.js"
+  },
+  "main": "./src/index.js",
+  "author": "zhengguozhi410@icloud.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.19.0",
+    "fs-extra": "^7.0.1",
+    "glob": "^7.1.3",
+    "html-minifier": "^3.5.21",
+    "shelljs": "^0.8.3"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
