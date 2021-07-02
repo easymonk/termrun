@@ -1,11 +1,12 @@
 {
   "name": "termrun",
-  "version": "0.4.6",
+  "version": "0.5.4",
   "description": "termrun help you run your command on other system ",
   "scripts": {},
   "keywords": [
     "termrun",
-    "term"
+    "term",
+    "run"
   ],
   "bin": {
     "termrun": "./bin/termrun.js"

@@ -47,8 +47,8 @@ termrun actDev 1234
 需要在项目目录下安装 `npm i termrun -S`
 
 ```js
-const cmdrun = require('termrun')
-cmdrun.run('help')
+const termrun = require('termrun')
+termrun.run('help')
 ```
 
 > 该工具已集成 Cli 命令
